@@ -16,7 +16,7 @@ The core analysis evaluates key financial performance drivers across sales chann
 * 📄 **[P&L Report (PDF)](P&L.pdf):** Profit and Loss summary breaking down total revenue, cost driver breakdowns, and net profitability.
 * 📄 **[Net Sales Performance (PDF)](Net%20sales.pdf):** In-depth analysis of overall revenue generation across timeframes and product lines.
 * 📄 **[Customer Net Sales Report (PDF)](Customer%20net%20sales.pdf):** Marketplace and account-level breakdown (Net Sales, COGS, Gross Profit) evaluating profitability by customer account.
-
+* 📄 **[Customer Discount Approval Report (PDF)](Customer%20Discount%20Approval.pdf):** Business scenario model evaluating product discounts, net sales, and gross margin targets across Best, Realistic, and Worst-case scenarios.
 ---
 
 ## 🛠️ Technical Skills & Concepts Applied
@@ -37,5 +37,6 @@ The core analysis evaluates key financial performance drivers across sales chann
 ## 👤 Author
 * **Vivek Bisht**
 * 🎓 Computer Science Student | Aspiring Data Analyst
-* 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com)
+* 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/YOUR-ACTUAL-PROFILE-URL)
 * 🐙 **GitHub Profile:** [@vivekbisht01](https://github.com/vivekbisht01)
+* ✉️ **Email:** Vivekbisht188@gmail.com
